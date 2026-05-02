@@ -1,0 +1,9 @@
+{
+	"appId": "com.commpansers.pathshala",
+	"appName": "Commanders Pathshala",
+	"webDir": "dist",
+	"packageClassList": [
+		"LocalNotificationsPlugin",
+		"PushNotificationsPlugin"
+	]
+}
